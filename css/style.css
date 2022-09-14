@@ -5,3 +5,23 @@ html {
 a {
   text-decoration: none;
 }
+
+h2 {
+  color: rgb(35, 8, 123);
+  font-weight: 20px;
+  text-align: center;
+}
+h3 {
+  color: blue;
+  font-style: italic;
+}
+fieldset {
+  background-color: antiquewhite;
+  border-radius: 6px;
+  border-color: chocolate;
+  border-width: 3px;
+  margin: 10px;
+}
+legend {
+  background-color: aquamarine;
+}
